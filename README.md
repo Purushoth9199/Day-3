@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "profile": {
     "name": "Purushothaman SKR",
     "email": "purushothaman619997@gmail.com",
     "phone": "6380891895",
